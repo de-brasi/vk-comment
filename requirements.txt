@@ -1,2 +1,1 @@
 vk_api==11.9.9
-sudo apt install python3.8-tk
